@@ -1,4 +1,3 @@
-
 ## Steps to Run the Project
 
 1. **Install Node.js**  
@@ -8,9 +7,12 @@
    Run the following command to install all required dependencies:
    ```bash
    npm install
+   ```
+
 3. **Start the Development Server**  
    Run the following command to start the development server:
    ```bash
    npm run dev
+   ```
 
-   https://github.com/SubhamSaha8688/INTERNSHALA-COURSE-7-ShoppyGlobe-E-commerce-Application.git
+[GitHub Repository](https://github.com/SubhamSaha8688/INTERNSHALA-COURSE-7-ShoppyGlobe-E-commerce-Application)
