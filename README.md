@@ -12,3 +12,5 @@
    Run the following command to start the development server:
    ```bash
    npm run dev
+
+   https://github.com/SubhamSaha8688/INTERNSHALA-COURSE-7-ShoppyGlobe-E-commerce-Application.git
