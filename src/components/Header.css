@@ -1,0 +1,73 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+  }
+  
+  .logo a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #333;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .logo-icon {
+    color: #4caf50;
+    margin-right: 0.5rem;
+    font-size: 1.8rem;
+  }
+  
+  .nav ul {
+    display: flex;
+    list-style: none;
+    gap: 1.5rem;
+  }
+  
+  .nav a {
+    text-decoration: none;
+    color: #333;
+    font-weight: 500;
+    transition: color 0.3s ease;
+  }
+  
+  .nav a:hover {
+    color: #4caf50;
+  }
+  
+  .cart-icon {
+    position: relative;
+  }
+  
+  .cart-icon a {
+    color: #333;
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
+  
+  .cart-count {
+    position: absolute;
+    top: -8px;
+    right: -8px;
+    background-color: #4caf50;
+    color: white;
+    font-size: 0.75rem;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
